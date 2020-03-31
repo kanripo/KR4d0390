@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 湖山類稿
-#+DATE: 2020-03-31 11:34:55.375295
+#+DATE: 2020-03-31 11:34:55.444907
 #+PROPERTY: ID KR4d0390
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0390_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -60,7 +60,7 @@
 ¶
 　　賈魏公府¶
 ¶
-　　葛&KR0656;當年宰相家游人不敢此行過柳隂夾道鶯成市¶
+　　葛嶺當年宰相家游人不敢此行過柳隂夾道鶯成市¶
 <pb:KR4d0390_WYG_001-3a>¶
 花影壓闌蜂閙衙六載襄陽圍已解三更魯港事如何¶
 棟梁今日皆焦土新有園丁種火麻¶
